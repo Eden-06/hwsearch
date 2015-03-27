@@ -12,7 +12,7 @@ ruby bibfilter.rb -V
 
 # Description
 
-This commandline tool to query various shoping sites for products.
+This is a commandline tool to query various shoping sites for products.
 The list of products to search for must be given in yaml files.
 Each product should at least have a name, but there might be other
 additional informations given, as follows:
