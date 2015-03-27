@@ -57,7 +57,7 @@ directory.
  ----- | -------------------------
   -h   | Show this document.
   -v   | Produces verbose output.
-  -V   | Shows the version number.-
+  -V   | Shows the version number.
 
 # Requirements
 
