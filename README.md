@@ -53,13 +53,11 @@ directory.
 
 # Options
 
------------------------------------
-  Flag  Description
- ------ --------------------------
-  -h    Show this document.
-  -v    produces verbose output.
-  -V    Shows the version number.
------------------------------------
+  Flag | Description
+ ----- | -------------------------
+  -h   | Show this document.
+  -v   | Produces verbose output.
+  -V   | Shows the version number.-
 
 # Requirements
 
