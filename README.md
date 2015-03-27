@@ -68,7 +68,10 @@ directory.
 * [yaml](https://github.com/rubysl/rubysl-yaml) => 1.2.1
 
 # Usage
- ruby hwsearch.rb items.yaml 1> pricelist.yaml 
+
+```bash
+ruby hwsearch.rb items.yaml 1> pricelist.yaml 
+```
 
 # Version
  0.1
